@@ -1,0 +1,13 @@
+.DogDetails {
+    max-width: 20%;
+    max-height: 20%;
+    margin: 2% 10%;
+}
+
+.DogDetails-facts {
+  text-align: left; 
+}
+
+.DogDetails-name {
+  text-align: center;
+}

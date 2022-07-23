@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  margin: 0;
+}
+
+Button {
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin: 8px 12px;
+  cursor: pointer;
+  width: 150px;
+}
+
+.Color {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+}
+
+.ColorLi {
+  list-style-type: none;
+}
+.NewColor {
+  text-align: center;
+  margin: 5%;
+  font-weight: bold;
+}
+
+.centered {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: x-large;
+  background-color: white;
+  border-radius: 10%;
+  padding: 20px;
+}

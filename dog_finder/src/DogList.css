@@ -1,0 +1,6 @@
+.DogList {
+    margin: 2% 10%;
+    display: grid;
+    grid: 200px / auto auto auto auto;
+    text-align: center;
+}
